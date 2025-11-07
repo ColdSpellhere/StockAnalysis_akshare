@@ -17,7 +17,8 @@ MIT License
 3. 分析时不再通过使用requests和BeautifulSoup手动抓取网页数据，而是直接使用akshare提供的接口获取历史股票数据，简化了数据获取流程。
 4. 增强了错误处理机制，捕获并报告数据获取和处理中的异常，提升用户体验。
 
-原Jupyter notebook链接：https://github.com/ColdSpellhere/IBM-DataScienceCourse/blob/main/Course5-Python_Project_for_DataScience/PracticeProject/Final%20Assignment.ipynb
+本项目GitHub链接：https://github.com/ColdSpellhere/StockAnalysis_akshare
+思路参考Jupyter notebook链接：https://github.com/ColdSpellhere/IBM-DataScienceCourse/blob/main/Course5-Python_Project_for_DataScience/PracticeProject/Final%20Assignment.ipynb
 Coursera课程链接：https://www.coursera.org/professional-certificates/ibm-data-science
 Akshare文档链接：https://akshare.readthedocs.io/zh_CN/latest/index.html
 """
@@ -241,6 +242,7 @@ if __name__ == "__main__":
 ## ------------------------------------------------------------------------------------------------------------------------------
 """
 感谢使用本脚本！
+本项目GitHub链接：https://github.com/ColdSpellhere/StockAnalysis_akshare
 Copyright (c) 2025.11.6 Coldspell
 MIT License
 """
