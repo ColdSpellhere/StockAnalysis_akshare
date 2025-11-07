@@ -226,7 +226,11 @@ def main():
         print("\n" + "="*60)
         print("分析完成！")
         print("="*60)
-        
+        print("感谢使用本脚本！")
+        print("本项目GitHub链接：https://github.com/ColdSpellhere/StockAnalysis_akshare")
+        print("Copyright (c) 2025.11.6 Coldspell")
+        print("MIT License")
+
     except KeyboardInterrupt:
         print("\n\n程序被用户中断")
     except Exception as e:
